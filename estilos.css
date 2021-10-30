@@ -1,0 +1,56 @@
+body{
+   
+    text-align: center; 
+    background-color: #082d38;
+    background-position: center;
+    font-family: Comic Sans Ms;
+    color: cornsilk;
+    font-size: 10px;
+}
+
+.taller1{
+    border-radius: 10px;
+    border:dashed;
+    text-align: justify;
+    margin: auto;
+    padding: auto;
+    padding: 10px;
+}
+
+.taller2{
+    border-radius: 10px;
+    border:dashed;
+    text-align: justify;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
+button{
+    text-decoration: none;
+    display:block;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 16px;
+    color: cornsilk;
+    background-color: transparent;
+    border-radius: 10px;
+    border: 2px solid #f5d108fd; 
+    cursor: pointer;
+    font-family: Comic Sans ms;
+}
+
+.emcabezado{
+    background-color: #f5d108fd;
+    margin: auto;
+    font-size: 16px;
+    color: black;
+}
+
+.pie{
+    background-color: #f5d108fd;
+    margin: auto;
+    font-size: 16px;
+    color: black;
+ }
